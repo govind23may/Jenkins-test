@@ -1,3 +1,7 @@
 Hi testing downstream project
 Again checking 
+<<<<<<< HEAD
 testing again through putty
+=======
+Again checking
+>>>>>>> 4c19a076a80a46642b024e515c8abcfda084b7d7
